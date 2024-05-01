@@ -1,0 +1,3 @@
+# this file lists paths and patterns to ignore 
+# this is another improvised line
+# remember if you track a file it will continue to be tracked even after being added to git.ignore.
